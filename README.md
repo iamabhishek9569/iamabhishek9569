@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @iamabhishek9569
+- Lucknow
 
 <!---
 iamabhishek9569/iamabhishek9569 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
